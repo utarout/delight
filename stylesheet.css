@@ -13,7 +13,14 @@ body {
   height:90px;
 }
 
+.header-list{
+  float:left;
+}
 
+.header-list li {
+  flaot:left;
+  padding:33px 20px;
+}
 
 p {
   font-size:40px
