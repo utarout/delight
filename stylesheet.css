@@ -4,13 +4,19 @@
 
 body {
   margin: 0;
-  font-family: "Hiragino Kaku Gothic ProN";
+  font-family: "Avenir Next","Hiragino KakuGothic ProN w3",sans-serif;
 }
 
 .header {
   background-color:#26d0c9;
   color:#fff;
   height:90px;
+}
+
+.header-logo {
+  float:left;
+  font-size:36px;
+  padding:20px 40px;
 }
 
 .header-list{
