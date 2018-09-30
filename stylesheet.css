@@ -1,10 +1,13 @@
-* {
-  box-sizing: border-box;
+li {
+  list-style:none;
 }
+
+
+
 
 body {
   margin: 0;
-  font-family: "Avenir Next","Hiragino KakuGothic ProN w3",sans-serif;
+  font-family: "Avenir Next","Hiragino KakuGothic ProN W3",sans-serif;
 }
 
 .header {
@@ -26,7 +29,7 @@ body {
 .header-list li {
   flaot:left;
   padding:33px 20px;
-font-size:40px
+
   
 }  
 
