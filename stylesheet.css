@@ -55,7 +55,7 @@ body {
 
 .footer {
   background-color:#ceccf3;
-  height:50px;
+  height:150px;
 }
 
 
@@ -71,7 +71,8 @@ body {
 
 .footer-list li{
   float:left;
-  font-size:49px;
+  font-size:20px;
+  padding:20px;
 }
 
   
