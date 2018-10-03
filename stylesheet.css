@@ -20,6 +20,12 @@ body {
   float:left;
   font-size:36px;
   padding:20px 40px;
+.copy-container h2{
+  font-size:30px;
+}
+
+
+.footer {
 }
 
 .header-list{
@@ -44,17 +50,34 @@ body {
 .copy-container h1 {
   font-size:50px;
 }
-
 .copy-container h2{
-  font-size:30px;
-}
-
-
-.footer {
   font-size:40px;
   background-color:#ceccf3;
   height:120px;
 }
+
+
+.footer {
+  background-color:#ceccf3;
+  height:50px;
+}
+
+
+.footer-logo {
+  font-size:50px;
+}
+
+.footer-list {
+  float:right;
+}
+
+.footer-list li{
+  float:right;
+  font-size:49px;
+}
+
+  
+
 
 
 
