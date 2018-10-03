@@ -11,6 +11,11 @@ body {
 }
 
 .header {
+    background-color:#26d0c9;
+  height:90px;
+
+}
+
 .header-logo {
   float:left;
   font-size:36px;
@@ -25,9 +30,7 @@ body {
   float:left;
   padding:30px 30px 50px 70px;
   font-color:block;
-  background-color:#26d0c9;
-  color:#fff;
-  height:90px;
+
 }
 
 
