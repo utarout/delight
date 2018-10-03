@@ -66,11 +66,10 @@ body {
 }
 
 .footer-list {
-  float:left;
+  float:right;
 }
 
 .footer-list li{
-  float:left;
   font-size:20px;
   padding:20px;
 }
