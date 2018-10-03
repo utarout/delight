@@ -20,9 +20,9 @@ body {
   float:left;
   font-size:36px;
   padding:20px 40px;
-.copy-container h2{
-  font-size:30px;
 }
+  
+
 
 
 
@@ -50,8 +50,6 @@ body {
 }
 .copy-container h2{
   font-size:40px;
-  background-color:#ceccf3;
-  height:120px;
 }
 
 
